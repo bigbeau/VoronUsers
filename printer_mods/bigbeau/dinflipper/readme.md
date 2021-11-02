@@ -2,7 +2,7 @@
 
 This is just a simple mod that allows flipping the din rails in the electronics enclosure (and thus, the electronics enclosure itself), so that it can be more easily accessed from the inside of the chamber rather than from the bottom of the printer. This allows users to modify their electronics without having to turn the printer upside down, which can be cumbersome. 
 
-I love this community and wanted to make something that others in it could use. Also, even though there's like 2 other existing bdin racket mods, I wanted mine to be extremely simple and usable without having to purchase any additonal hardware. In other words... Provided you have a way to access your electronics from the inside of the printer (see below), you can download this bracket and install it right now without having to buy anything.
+I love this community and wanted to make something that others in it could use. Also, even though there's like 2 other existing din bracket mods, I wanted mine to be extremely simple and usable without having to purchase any additonal hardware. In other words... Provided you have a way to access your electronics from the inside of the printer (see below), you can download this bracket and install it right now without having to buy anything.
 
 # How is this installed?
 
