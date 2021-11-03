@@ -12,9 +12,9 @@ While you can mount it anywhere in any caridnal orientation, the ThickDin is des
 
 There are many ways to do this, but this mod is more focused on mounting the rails themselves. How you access the compartment is up to you.
 
-On a Trident, you could cut your deck panel in half left-to-right and install handles. There also exists a mod to modify the front two z mounts to allow the deck to be removed easily, but they've expressed their dislike for git in the past so there's no folder for it. Their mod is available in the #voronuser_mods channel in the Voron Discord. It was created by @Logan#2225
+On a Trident, you could cut your deck panel in half left-to-right and install handles. There also exists a mod for the front two z mounts that allows the deck to be removed easily, and that mod is available in the #voronuser_mods channel in the Voron Discord. It was created by @Logan#2225 as part of his own electronics flipping design.
 
-This mod was designed for a Trident. While it MAY fit a v2.4, that printer already has a mod for a [car hood style electronics enclosure access](/printer_mods/xbst_/Bed_Hinge). The difference between the mounts in that mod and the dinflipper is that my mounts do not require any additional screws, using the same ones that the official mounts use. It's also guarenteed to work, whereas I'm not sure if mine will because I do not have a v2.4 to test it.
+This mod was designed for a Trident. While it MAY fit a v2.4, that printer already has a mod for a [car hood style electronics enclosure access](/printer_mods/xbst_/Bed_Hinge). The difference between the mounts in that mod and the dinflipper is that my mounts do not require any additional screws, using the same ones that the official mounts use. It's also guarenteed to work, whereas I'm not sure if mine will because I do not have a v2.4 to test it. If you test it, dm me and let me know if it works!
 
 # Can you add...?
 
@@ -24,4 +24,4 @@ Maybe? Dm me on discord and if it doesn't take away from the goal of this mod (u
 
 Discord: @BigBeau#3926
 
-My name is Mae, and my pronouns are she/her or they/them, no preference for either.
+My name is Mae, and my pronouns are she/her or they/them, no preference for either. 
