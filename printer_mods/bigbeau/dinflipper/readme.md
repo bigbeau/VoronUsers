@@ -2,13 +2,13 @@
 
 This is just a simple mod that allows flipping the din rails in the electronics enclosure (and thus, the electronics enclosure itself), so that it can be more easily accessed from the inside of the chamber rather than from the bottom of the printer. This allows users to modify their electronics without having to turn the printer upside down, which can be cumbersome. 
 
-I love this community and wanted to make something that others in it could use. Also, even though there's like 2 other existing din bracket mods, I wanted mine to be extremely simple and usable without having to purchase any additonal hardware. In other words... Provided you have a way to access your electronics from the inside of the printer (see below), you can download this bracket and install it right now without having to buy anything.
+I love this community and wanted to make something that others in it could use. Also, even though there's like 2 other existing din bracket mods, I wanted mine to be extremely simple and usable without having to purchase any additonal hardware (which unfortunately, the latter of which cannot be said about the other designs). In other words... Provided you already have or plan to have a way to access your electronics from the inside of the printer (see below), you can download this bracket and install it right now without having to buy anything.
 
 # How is this installed?
 
-While you can mount it anywhere in any caridnal orientation, the ThickDin is designed to be mounted directly in front of the fans, as to not block their airflow. The ThinDin is designed to allow more rails to be installed, and works better in a front-to-back orientation, as they will block airflow when placed in front of the fans. ThinDin mounts can also be placed between the fans more easily than the ThickDin.
+While you can mount it anywhere in any caridnal orientation, the ThickDin is designed to be mounted directly in front of the fans, as to not block their airflow. The ThinDin is designed to allow more rails to be installed, and works better in a front-to-back orientation, as they will block airflow when placed in front of the fans. ThinDin mounts can also be placed between the fans more easily than the ThickDin. Images to come.
 
-# So this only flips the rails... how do I access the electronics?
+# But this only flips the rails... how do I access the electronics?
 
 There are many ways to do this, but this mod is more focused on mounting the rails themselves. How you access the compartment is up to you.
 
