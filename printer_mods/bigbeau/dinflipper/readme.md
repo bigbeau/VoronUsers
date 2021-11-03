@@ -6,7 +6,7 @@ I love this community and wanted to make something that others in it could use. 
 
 # How is this installed?
 
-While you can mount it anywhere in any caridnal orientation, the ThickDin is designed to be mounted directly in front of the fans, as to not block their airflow. The ThinDin is designed to allow more rails to be installed, but can also be installed in a front-to-back orientation. ThinDin mounts can also be placed between the fans for 3+ rail configurations. Images to come.
+While you can mount it anywhere in any caridnal orientation, the ThickDin is designed to be mounted directly in front of the fans, as to not block their airflow. The ThinDin is designed to allow 3+ rails to be installed, but can also be installed in a front-to-back orientation. Images to come.
 
 # But this only flips the rails... how do I access the electronics?
 
