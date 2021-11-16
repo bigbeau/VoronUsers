@@ -14,17 +14,4 @@ There are many ways to do this, but this mod is more focused on mounting the rai
 
 On a Trident, you could cut your deck panel in half left-to-right and install handles. There also exists a mod for the front two z mounts that allows the deck to be removed easily, and that mod is available in the #voronuser_mods channel in the Voron Discord. It was created by @Logan#2225 as part of his own electronics flipping design.
 
-This mod was designed for a Trident. While it MAY fit a v2.4, that printer already has a mod for a [car hood style electronics enclosure access](/printer_mods/xbst_/Bed_Hinge). The difference between the mounts in that mod and the dinflipper is that my mounts do not require any additional screws, using the same ones that the official mounts use. It's also guarenteed to work, whereas I'm not sure if mine will because I do not have a v2.4 to test it. If you test it, dm me and let me know if it works!
-
-## Can you add...?
-
-Maybe? Dm me on discord and if it doesn't take away from the goal of this mod (usability without additional required hardware) then I'll see what I can do. If you know some CAD, you could probably do it yourself. Show me what you do with it! :)
-
-## Who are you? And how can I get in touch?
-
-My name is Mae, and my pronouns are she/her or they/them, no preference for either.
-
-I'm very active on Discord, @BigBeau#3926
-
-I don't _usually_ accept friend requests from strangers, but polite dms are always welcome :)
-
+This mod was designed for a Trident. While it MAY fit a v2.4, that printer already has a mod for a [car hood style electronics enclosure access](/printer_mods/xbst_/Bed_Hinge). The difference between the mounts in that mod and the dinflipper is that my mounts do not require any additional screws, using the same ones that the official mounts use. It's also guarenteed to work, whereas I'm not sure if mine will because I do not have a v2.4 to test it. If you test it, dm me and let me know if it works! I'm very active on Discord, @BigBeau#3926
